@@ -13,7 +13,7 @@ Deep-Inspect-Api is a FastAPI application designed to analyze audio files to det
 
 1. **Clone the repository**:
     ```sh
-    git clone <repository_url>
+    git clone git@github.com:n-huzaifa/Deep-Inspect-Api.git
     cd deep-inspect-api
     ```
 
