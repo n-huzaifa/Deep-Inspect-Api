@@ -3,7 +3,6 @@ import os
 from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from inference import analyze_audio_batch
-from pydub import AudioSegment
 
 app = FastAPI()
 
@@ -43,4 +42,4 @@ async def upload_file(file: UploadFile = File(...)):
     # print_predictions(predictions, probabilities)
 
     
-    return {"filename": file.filename, "file_path": file_path, "clip_paths": clip_paths}
+    return {"filename": file.filename, "file_path": file_path}
