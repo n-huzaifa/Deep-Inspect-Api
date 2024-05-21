@@ -9,12 +9,11 @@ app = FastAPI()
 # Allow requests from your Chrome extension's origin
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["chrome-extension://jkapobccndghglakoceikpihckclaibd"],
+    allow_origins=["*"],
     allow_credentials=True,
     allow_methods=["GET", "POST"],
     allow_headers=["*"],
 )
-
 
 UPLOAD_FOLDER = "uploads"  # Define the folder where uploaded files will be stored
 
