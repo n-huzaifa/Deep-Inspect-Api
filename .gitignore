@@ -2,3 +2,5 @@
 /venv/
 *.wav
 *.log
+file_metadata.json
+main.log
