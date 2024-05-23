@@ -1,9 +1,11 @@
+from typing import List, Dict, Any
 import os
 import logging
 from logging.handlers import RotatingFileHandler
 from fastapi import FastAPI, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
-from inference import analyze_audio_batch, print_predictions, split_wav_file
+from inference import analyze_audio_batch, print_predictions, split_wav_file, process_predictions_and_probabilities
+import numpy as np
 
 app = FastAPI()
 
@@ -42,8 +44,8 @@ def save_file_to_server(file: UploadFile) -> str:
     logging.info(f"File saved to: {file_path}")
     return file_path
 
-def cleanup_files(file_paths):
-    print(file_paths)
+def cleanup_files(file_paths: List[str]):
+    logging.info(file_paths)
     for file_path in file_paths:
         try:
             if os.path.exists(file_path):
@@ -55,7 +57,7 @@ def cleanup_files(file_paths):
             logging.error(f"Error deleting file {file_path}: {e}")
 
 @app.post("/upload")
-async def upload_file(file: UploadFile = File(...)):
+async def upload_file(file: UploadFile = File(...)) -> Dict[str, Any]:
     try:
         # Save the file to the server
         file_path = save_file_to_server(file)
@@ -72,11 +74,25 @@ async def upload_file(file: UploadFile = File(...)):
         predictions, probabilities = analyze_audio_batch(input_audio_paths)
         logging.info(f"Predictions: {predictions}")
         logging.info(f"Probabilities: {probabilities}")
-        cleanup_files(input_audio_paths)
+        logging.info(print_predictions(predictions, probabilities))
+        process_predictions_and_probabilities(predictions, probabilities)
 
         # Clean up temporary files
-        
-        return {"filename": file.filename, "file_path": file_path}
+        cleanup_files(input_audio_paths)
+
+        # Convert numpy arrays to lists for serialization
+        predictions = predictions.tolist()
+        probabilities = probabilities.tolist()
+
+        # Ensure predictions and probabilities can be serialized
+        response = {
+            "filename": file.filename,
+            "file_path": file_path,
+            "predictions": predictions,
+            "probabilities": probabilities
+        }
+
+        return response
     except Exception as e:
         logging.error(f"Error processing file: {e}")
         return {"error": str(e)}
