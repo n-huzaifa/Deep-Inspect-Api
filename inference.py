@@ -9,10 +9,6 @@ import numpy as np
 import parselmouth
 import soundfile as sf
 
-# Set up logging
-log_filename = 'audio_processing.log'
-logging.basicConfig(filename=log_filename, level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-
 # Function to split a WAV file into segments
 def split_wav_file(path):
     logging.info(f"Splitting the WAV file: {path}")
