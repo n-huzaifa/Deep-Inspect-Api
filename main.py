@@ -69,10 +69,10 @@ async def upload_file(file: UploadFile = File(...)):
         input_audio_paths = split_wav_file(normalized_file_path)
         logging.info(f"Created audio segments: {input_audio_paths}")
         
-        cleanup_files(input_audio_paths)
         predictions, probabilities = analyze_audio_batch(input_audio_paths)
         logging.info(f"Predictions: {predictions}")
         logging.info(f"Probabilities: {probabilities}")
+        cleanup_files(input_audio_paths)
 
         # Clean up temporary files
         
