@@ -125,57 +125,7 @@ async def upload_file(file: UploadFile = File(...)) -> Dict[str, Any]:
     except Exception as e:
         logging.error(f"Error processing file: {e}")
         return {"error": str(e)}
-    try:
-        # Save the file to the server
-        file_path = save_file_to_server(file)
-        logging.info(f"File saved to: {file_path}")
-
-        # Normalize the file path for Python
-        normalized_file_path = os.path.normpath(file_path)
-        logging.info(f"Normalized file path: {normalized_file_path}")
-
-        # Load existing file metadata
-        file_metadata = load_file_metadata()
-
-        # Add new file metadata
-        new_metadata = {
-            "filename": file.filename,
-            "file_path": normalized_file_path,
-            "choice": "unchecked"
-        }
-        file_metadata.append(new_metadata)
-
-        # Save updated file metadata
-        save_file_metadata(file_metadata)
-
-        # Break down audio into 1-second clips and save
-        input_audio_paths = split_wav_file(normalized_file_path)
-        logging.info(f"Created audio segments: {input_audio_paths}")
-
-        predictions, probabilities = analyze_audio_batch(input_audio_paths)
-        logging.info(f"Predictions: {predictions}")
-        logging.info(f"Probabilities: {probabilities}")
-        logging.info(print_predictions(predictions, probabilities))
-        process_predictions_and_probabilities(predictions, probabilities)
-
-        # Clean up temporary files
-        cleanup_files(input_audio_paths)
-
-        # Convert numpy arrays to lists for serialization
-        predictions = predictions.tolist()
-        probabilities = probabilities.tolist()
-
-        # Ensure predictions and probabilities can be serialized
-        response = {
-            "filename": file.filename,
-            "file_path": file_path,
-            "predictions": predictions,
-            "probabilities": probabilities
-        }
-        return response
-    except Exception as e:
-        logging.error(f"Error processing file: {e}")
-        return {"error": str(e)}
+    
 
 @app.post("/data-collect")
 async def collect_data_feedback(request: Request):

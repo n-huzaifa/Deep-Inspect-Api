@@ -5,3 +5,1684 @@
 2024-05-23 23:15:48,226 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
 2024-05-23 23:15:48,607 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
 2024-05-23 23:15:48,997 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:52,873 - DEBUG - Calling on_part_begin with no data
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_field with data[42:61]
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_value with data[63:103]
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_field with data[105:117]
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_value with data[119:128]
+2024-05-24 14:43:52,873 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:43:52,873 - DEBUG - Calling on_headers_finished with no data
+2024-05-24 14:43:52,875 - DEBUG - Calling on_part_data with data[132:262144]
+2024-05-24 14:43:52,875 - DEBUG - Calling on_part_data with data[0:255679]
+2024-05-24 14:43:52,875 - DEBUG - Calling on_part_data with data[0:1]
+2024-05-24 14:43:52,881 - DEBUG - Calling on_part_data with data[255680:262144]
+2024-05-24 14:43:52,881 - DEBUG - Calling on_part_data with data[0:73418]
+2024-05-24 14:43:52,884 - DEBUG - Calling on_part_data with data[0:1]
+2024-05-24 14:43:52,885 - DEBUG - Calling on_part_data with data[73419:186050]
+2024-05-24 14:43:52,885 - DEBUG - Calling on_part_end with no data
+2024-05-24 14:43:52,885 - DEBUG - Calling on_end with no data
+2024-05-24 14:43:52,886 - INFO - File saved to: uploads\1.wav
+2024-05-24 14:43:52,886 - INFO - File saved to: uploads\1.wav
+2024-05-24 14:43:52,886 - INFO - File saved to: uploads\1.wav
+2024-05-24 14:43:52,886 - INFO - File saved to: uploads\1.wav
+2024-05-24 14:43:52,888 - INFO - Normalized file path: uploads\1.wav
+2024-05-24 14:43:52,888 - INFO - Normalized file path: uploads\1.wav
+2024-05-24 14:43:52,888 - INFO - Loading audio file: uploads\1.wav
+2024-05-24 14:43:52,888 - INFO - Loading audio file: uploads\1.wav
+2024-05-24 14:43:52,960 - DEBUG - 2 changes detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\uploads\\1.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:53,397 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:53,845 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:54,227 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:54,612 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:55,049 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:55,427 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:55,861 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:56,249 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:56,628 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:57,009 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:57,443 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:57,834 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:58,278 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:58,657 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:59,030 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:59,473 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:43:59,851 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:00,423 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:00,643 - DEBUG - bytecode dump:
+>          0	NOP(arg=None, lineno=1141)
+           2	RESUME(arg=0, lineno=1141)
+           4	LOAD_FAST(arg=0, lineno=1144)
+           6	LOAD_CONST(arg=1, lineno=1144)
+           8	BINARY_SUBSCR(arg=None, lineno=1144)
+          12	STORE_FAST(arg=3, lineno=1144)
+          14	LOAD_FAST(arg=1, lineno=1145)
+          16	UNARY_NEGATIVE(arg=None, lineno=1145)
+          18	LOAD_FAST(arg=3, lineno=1145)
+          20	SWAP(arg=2, lineno=1145)
+          22	COPY(arg=2, lineno=1145)
+          24	COMPARE_OP(arg=26, lineno=1145)
+          28	POP_JUMP_IF_FALSE(arg=5, lineno=1145)
+          30	LOAD_FAST(arg=1, lineno=1145)
+          32	COMPARE_OP(arg=26, lineno=1145)
+          36	POP_JUMP_IF_FALSE(arg=5, lineno=1145)
+          38	JUMP_FORWARD(arg=2, lineno=1145)
+>         40	POP_TOP(arg=None, lineno=1145)
+          42	JUMP_FORWARD(arg=2, lineno=1145)
+>         44	LOAD_CONST(arg=1, lineno=1146)
+          46	STORE_FAST(arg=3, lineno=1146)
+>         48	LOAD_FAST(arg=0, lineno=1148)
+          50	LOAD_CONST(arg=2, lineno=1148)
+          52	BINARY_SUBSCR(arg=None, lineno=1148)
+          56	STORE_FAST(arg=4, lineno=1148)
+          58	LOAD_FAST(arg=1, lineno=1149)
+          60	UNARY_NEGATIVE(arg=None, lineno=1149)
+          62	LOAD_FAST(arg=4, lineno=1149)
+          64	SWAP(arg=2, lineno=1149)
+          66	COPY(arg=2, lineno=1149)
+          68	COMPARE_OP(arg=26, lineno=1149)
+          72	POP_JUMP_IF_FALSE(arg=5, lineno=1149)
+          74	LOAD_FAST(arg=1, lineno=1149)
+          76	COMPARE_OP(arg=26, lineno=1149)
+          80	POP_JUMP_IF_FALSE(arg=5, lineno=1149)
+          82	JUMP_FORWARD(arg=2, lineno=1149)
+>         84	POP_TOP(arg=None, lineno=1149)
+          86	JUMP_FORWARD(arg=2, lineno=1149)
+>         88	LOAD_CONST(arg=1, lineno=1150)
+          90	STORE_FAST(arg=4, lineno=1150)
+>         92	LOAD_FAST(arg=2, lineno=1152)
+          94	POP_JUMP_IF_FALSE(arg=43, lineno=1152)
+          96	LOAD_GLOBAL(arg=1, lineno=1153)
+         106	LOAD_ATTR(arg=2, lineno=1153)
+         126	LOAD_FAST(arg=3, lineno=1153)
+         128	CALL(arg=1, lineno=1153)
+         136	LOAD_GLOBAL(arg=1, lineno=1153)
+         146	LOAD_ATTR(arg=2, lineno=1153)
+         166	LOAD_FAST(arg=4, lineno=1153)
+         168	CALL(arg=1, lineno=1153)
+         176	COMPARE_OP(arg=55, lineno=1153)
+         180	RETURN_VALUE(arg=None, lineno=1153)
+>        182	LOAD_GLOBAL(arg=1, lineno=1155)
+         192	LOAD_ATTR(arg=4, lineno=1155)
+         212	LOAD_FAST(arg=3, lineno=1155)
+         214	CALL(arg=1, lineno=1155)
+         222	LOAD_GLOBAL(arg=1, lineno=1155)
+         232	LOAD_ATTR(arg=4, lineno=1155)
+         252	LOAD_FAST(arg=4, lineno=1155)
+         254	CALL(arg=1, lineno=1155)
+         262	COMPARE_OP(arg=55, lineno=1155)
+         266	RETURN_VALUE(arg=None, lineno=1155)
+2024-05-24 14:44:00,643 - DEBUG - pending: deque([State(pc_initial=0 nstack_initial=0)])
+2024-05-24 14:44:00,643 - DEBUG - stack: []
+2024-05-24 14:44:00,643 - DEBUG - state.pc_initial: State(pc_initial=0 nstack_initial=0)
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=0, inst=NOP(arg=None, lineno=1141)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=2, inst=RESUME(arg=0, lineno=1141)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=4, inst=LOAD_FAST(arg=0, lineno=1144)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=6, inst=LOAD_CONST(arg=1, lineno=1144)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$x4.0']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=8, inst=BINARY_SUBSCR(arg=None, lineno=1144)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$x4.0', '$const6.1']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=12, inst=STORE_FAST(arg=3, lineno=1144)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$8binary_subscr.2']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=14, inst=LOAD_FAST(arg=1, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=16, inst=UNARY_NEGATIVE(arg=None, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$threshold14.3']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=18, inst=LOAD_FAST(arg=3, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$16unary_negative.4']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=20, inst=SWAP(arg=2, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$16unary_negative.4', '$x018.5']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=22, inst=COPY(arg=2, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$x018.5', '$16unary_negative.4']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=24, inst=COMPARE_OP(arg=26, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$x018.5', '$16unary_negative.4', '$x018.5']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=28, inst=POP_JUMP_IF_FALSE(arg=5, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$x018.5', '$24compare_op.6']
+2024-05-24 14:44:00,643 - DEBUG - end state. edges=[Edge(pc=30, stack=('$x018.5',), blockstack=(), npush=0), Edge(pc=40, stack=('$x018.5',), blockstack=(), npush=0)]
+2024-05-24 14:44:00,643 - DEBUG - pending: deque([State(pc_initial=30 nstack_initial=1), State(pc_initial=40 nstack_initial=1)])
+2024-05-24 14:44:00,643 - DEBUG - stack: ['$phi30.0']
+2024-05-24 14:44:00,643 - DEBUG - state.pc_initial: State(pc_initial=30 nstack_initial=1)
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=30, inst=LOAD_FAST(arg=1, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$phi30.0']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=32, inst=COMPARE_OP(arg=26, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$phi30.0', '$threshold30.1']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=36, inst=POP_JUMP_IF_FALSE(arg=5, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$32compare_op.2']
+2024-05-24 14:44:00,643 - DEBUG - end state. edges=[Edge(pc=38, stack=(), blockstack=(), npush=0), Edge(pc=48, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,643 - DEBUG - pending: deque([State(pc_initial=40 nstack_initial=1), State(pc_initial=38 nstack_initial=0), State(pc_initial=48 nstack_initial=0)])
+2024-05-24 14:44:00,643 - DEBUG - stack: ['$phi40.0']
+2024-05-24 14:44:00,643 - DEBUG - state.pc_initial: State(pc_initial=40 nstack_initial=1)
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=40, inst=POP_TOP(arg=None, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack ['$phi40.0']
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=42, inst=JUMP_FORWARD(arg=2, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - end state. edges=[Edge(pc=48, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,643 - DEBUG - pending: deque([State(pc_initial=38 nstack_initial=0), State(pc_initial=48 nstack_initial=0), State(pc_initial=48 nstack_initial=0)])
+2024-05-24 14:44:00,643 - DEBUG - stack: []
+2024-05-24 14:44:00,643 - DEBUG - state.pc_initial: State(pc_initial=38 nstack_initial=0)
+2024-05-24 14:44:00,643 - DEBUG - dispatch pc=38, inst=JUMP_FORWARD(arg=2, lineno=1145)
+2024-05-24 14:44:00,643 - DEBUG - stack []
+2024-05-24 14:44:00,643 - DEBUG - end state. edges=[Edge(pc=44, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,643 - DEBUG - pending: deque([State(pc_initial=48 nstack_initial=0), State(pc_initial=48 nstack_initial=0), State(pc_initial=44 nstack_initial=0)])
+2024-05-24 14:44:00,643 - DEBUG - stack: []
+2024-05-24 14:44:00,643 - DEBUG - state.pc_initial: State(pc_initial=48 nstack_initial=0)
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=48, inst=LOAD_FAST(arg=0, lineno=1148)
+2024-05-24 14:44:00,654 - DEBUG - stack []
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=50, inst=LOAD_CONST(arg=2, lineno=1148)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$x48.0']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=52, inst=BINARY_SUBSCR(arg=None, lineno=1148)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$x48.0', '$const50.1']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=56, inst=STORE_FAST(arg=4, lineno=1148)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$52binary_subscr.2']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=58, inst=LOAD_FAST(arg=1, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack []
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=60, inst=UNARY_NEGATIVE(arg=None, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$threshold58.3']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=62, inst=LOAD_FAST(arg=4, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$60unary_negative.4']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=64, inst=SWAP(arg=2, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$60unary_negative.4', '$x162.5']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=66, inst=COPY(arg=2, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$x162.5', '$60unary_negative.4']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=68, inst=COMPARE_OP(arg=26, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$x162.5', '$60unary_negative.4', '$x162.5']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=72, inst=POP_JUMP_IF_FALSE(arg=5, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$x162.5', '$68compare_op.6']
+2024-05-24 14:44:00,654 - DEBUG - end state. edges=[Edge(pc=74, stack=('$x162.5',), blockstack=(), npush=0), Edge(pc=84, stack=('$x162.5',), blockstack=(), npush=0)]
+2024-05-24 14:44:00,654 - DEBUG - pending: deque([State(pc_initial=48 nstack_initial=0), State(pc_initial=44 nstack_initial=0), State(pc_initial=74 nstack_initial=1), State(pc_initial=84 nstack_initial=1)])
+2024-05-24 14:44:00,654 - DEBUG - pending: deque([State(pc_initial=44 nstack_initial=0), State(pc_initial=74 nstack_initial=1), State(pc_initial=84 nstack_initial=1)])
+2024-05-24 14:44:00,654 - DEBUG - stack: []
+2024-05-24 14:44:00,654 - DEBUG - state.pc_initial: State(pc_initial=44 nstack_initial=0)
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=44, inst=LOAD_CONST(arg=1, lineno=1146)
+2024-05-24 14:44:00,654 - DEBUG - stack []
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=46, inst=STORE_FAST(arg=3, lineno=1146)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$const44.0']
+2024-05-24 14:44:00,654 - DEBUG - end state. edges=[Edge(pc=48, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,654 - DEBUG - pending: deque([State(pc_initial=74 nstack_initial=1), State(pc_initial=84 nstack_initial=1), State(pc_initial=48 nstack_initial=0)])
+2024-05-24 14:44:00,654 - DEBUG - stack: ['$phi74.0']
+2024-05-24 14:44:00,654 - DEBUG - state.pc_initial: State(pc_initial=74 nstack_initial=1)
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=74, inst=LOAD_FAST(arg=1, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$phi74.0']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=76, inst=COMPARE_OP(arg=26, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$phi74.0', '$threshold74.1']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=80, inst=POP_JUMP_IF_FALSE(arg=5, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$76compare_op.2']
+2024-05-24 14:44:00,654 - DEBUG - end state. edges=[Edge(pc=82, stack=(), blockstack=(), npush=0), Edge(pc=92, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,654 - DEBUG - pending: deque([State(pc_initial=84 nstack_initial=1), State(pc_initial=48 nstack_initial=0), State(pc_initial=82 nstack_initial=0), State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,654 - DEBUG - stack: ['$phi84.0']
+2024-05-24 14:44:00,654 - DEBUG - state.pc_initial: State(pc_initial=84 nstack_initial=1)
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=84, inst=POP_TOP(arg=None, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack ['$phi84.0']
+2024-05-24 14:44:00,654 - DEBUG - dispatch pc=86, inst=JUMP_FORWARD(arg=2, lineno=1149)
+2024-05-24 14:44:00,654 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[Edge(pc=92, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=48 nstack_initial=0), State(pc_initial=82 nstack_initial=0), State(pc_initial=92 nstack_initial=0), State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=82 nstack_initial=0), State(pc_initial=92 nstack_initial=0), State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - stack: []
+2024-05-24 14:44:00,658 - DEBUG - state.pc_initial: State(pc_initial=82 nstack_initial=0)
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=82, inst=JUMP_FORWARD(arg=2, lineno=1149)
+2024-05-24 14:44:00,658 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[Edge(pc=88, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=92 nstack_initial=0), State(pc_initial=92 nstack_initial=0), State(pc_initial=88 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - stack: []
+2024-05-24 14:44:00,658 - DEBUG - state.pc_initial: State(pc_initial=92 nstack_initial=0)
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=92, inst=LOAD_FAST(arg=2, lineno=1152)
+2024-05-24 14:44:00,658 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=94, inst=POP_JUMP_IF_FALSE(arg=43, lineno=1152)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$zero_pos92.0']
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[Edge(pc=96, stack=(), blockstack=(), npush=0), Edge(pc=182, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=92 nstack_initial=0), State(pc_initial=88 nstack_initial=0), State(pc_initial=96 nstack_initial=0), State(pc_initial=182 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=88 nstack_initial=0), State(pc_initial=96 nstack_initial=0), State(pc_initial=182 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - stack: []
+2024-05-24 14:44:00,658 - DEBUG - state.pc_initial: State(pc_initial=88 nstack_initial=0)
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=88, inst=LOAD_CONST(arg=1, lineno=1150)
+2024-05-24 14:44:00,658 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=90, inst=STORE_FAST(arg=4, lineno=1150)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$const88.0']
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[Edge(pc=92, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=96 nstack_initial=0), State(pc_initial=182 nstack_initial=0), State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - stack: []
+2024-05-24 14:44:00,658 - DEBUG - state.pc_initial: State(pc_initial=96 nstack_initial=0)
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=96, inst=LOAD_GLOBAL(arg=1, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=106, inst=LOAD_ATTR(arg=2, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$96.1', '$96load_global.0']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=126, inst=LOAD_FAST(arg=3, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$96.1', '$106load_attr.2']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=128, inst=CALL(arg=1, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$96.1', '$106load_attr.2', '$x0126.3']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=136, inst=LOAD_GLOBAL(arg=1, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$128call.4']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=146, inst=LOAD_ATTR(arg=2, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$128call.4', '$null$136.6', '$136load_global.5']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=166, inst=LOAD_FAST(arg=4, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$128call.4', '$null$136.6', '$146load_attr.7']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=168, inst=CALL(arg=1, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$128call.4', '$null$136.6', '$146load_attr.7', '$x1166.8']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=176, inst=COMPARE_OP(arg=55, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$128call.4', '$168call.9']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=180, inst=RETURN_VALUE(arg=None, lineno=1153)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$176compare_op.10']
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=182 nstack_initial=0), State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - stack: []
+2024-05-24 14:44:00,658 - DEBUG - state.pc_initial: State(pc_initial=182 nstack_initial=0)
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=182, inst=LOAD_GLOBAL(arg=1, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack []
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=192, inst=LOAD_ATTR(arg=4, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$182.1', '$182load_global.0']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=212, inst=LOAD_FAST(arg=3, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$182.1', '$192load_attr.2']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=214, inst=CALL(arg=1, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$null$182.1', '$192load_attr.2', '$x0212.3']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=222, inst=LOAD_GLOBAL(arg=1, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$214call.4']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=232, inst=LOAD_ATTR(arg=4, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$214call.4', '$null$222.6', '$222load_global.5']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=252, inst=LOAD_FAST(arg=4, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$214call.4', '$null$222.6', '$232load_attr.7']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=254, inst=CALL(arg=1, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$214call.4', '$null$222.6', '$232load_attr.7', '$x1252.8']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=262, inst=COMPARE_OP(arg=55, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$214call.4', '$254call.9']
+2024-05-24 14:44:00,658 - DEBUG - dispatch pc=266, inst=RETURN_VALUE(arg=None, lineno=1155)
+2024-05-24 14:44:00,658 - DEBUG - stack ['$262compare_op.10']
+2024-05-24 14:44:00,658 - DEBUG - end state. edges=[]
+2024-05-24 14:44:00,658 - DEBUG - pending: deque([State(pc_initial=92 nstack_initial=0)])
+2024-05-24 14:44:00,658 - DEBUG - -------------------------Prune PHIs-------------------------
+2024-05-24 14:44:00,658 - DEBUG - Used_phis: defaultdict(<class 'set'>,
+            {State(pc_initial=0 nstack_initial=0): set(),
+             State(pc_initial=30 nstack_initial=1): {'$phi30.0'},
+             State(pc_initial=38 nstack_initial=0): set(),
+             State(pc_initial=40 nstack_initial=1): set(),
+             State(pc_initial=44 nstack_initial=0): set(),
+             State(pc_initial=48 nstack_initial=0): set(),
+             State(pc_initial=74 nstack_initial=1): {'$phi74.0'},
+             State(pc_initial=82 nstack_initial=0): set(),
+             State(pc_initial=84 nstack_initial=1): set(),
+             State(pc_initial=88 nstack_initial=0): set(),
+             State(pc_initial=92 nstack_initial=0): set(),
+             State(pc_initial=96 nstack_initial=0): set(),
+             State(pc_initial=182 nstack_initial=0): set()})
+2024-05-24 14:44:00,658 - DEBUG - defmap: {'$phi30.0': State(pc_initial=0 nstack_initial=0),
+ '$phi40.0': State(pc_initial=0 nstack_initial=0),
+ '$phi74.0': State(pc_initial=48 nstack_initial=0),
+ '$phi84.0': State(pc_initial=48 nstack_initial=0)}
+2024-05-24 14:44:00,658 - DEBUG - phismap: defaultdict(<class 'set'>,
+            {'$phi30.0': {('$x018.5', State(pc_initial=0 nstack_initial=0))},
+             '$phi40.0': {('$x018.5', State(pc_initial=0 nstack_initial=0))},
+             '$phi74.0': {('$x162.5', State(pc_initial=48 nstack_initial=0))},
+             '$phi84.0': {('$x162.5', State(pc_initial=48 nstack_initial=0))}})
+2024-05-24 14:44:00,658 - DEBUG - changing phismap: defaultdict(<class 'set'>,
+            {'$phi30.0': {('$x018.5', State(pc_initial=0 nstack_initial=0))},
+             '$phi40.0': {('$x018.5', State(pc_initial=0 nstack_initial=0))},
+             '$phi74.0': {('$x162.5', State(pc_initial=48 nstack_initial=0))},
+             '$phi84.0': {('$x162.5', State(pc_initial=48 nstack_initial=0))}})
+2024-05-24 14:44:00,658 - DEBUG - keep phismap: {'$phi30.0': {('$x018.5', State(pc_initial=0 nstack_initial=0))},
+ '$phi74.0': {('$x162.5', State(pc_initial=48 nstack_initial=0))}}
+2024-05-24 14:44:00,658 - DEBUG - new_out: defaultdict(<class 'dict'>,
+            {State(pc_initial=0 nstack_initial=0): {'$phi30.0': '$x018.5'},
+             State(pc_initial=48 nstack_initial=0): {'$phi74.0': '$x162.5'}})
+2024-05-24 14:44:00,658 - DEBUG - ----------------------DONE Prune PHIs-----------------------
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=0 nstack_initial=0):
+AdaptBlockInfo(insts=((0, {}), (2, {}), (4, {'res': '$x4.0'}), (6, {'res': '$const6.1'}), (8, {'index': '$const6.1', 'target': '$x4.0', 'res': '$8binary_subscr.2'}), (12, {'value': '$8binary_subscr.2'}), (14, {'res': '$threshold14.3'}), (16, {'value': '$threshold14.3', 'res': '$16unary_negative.4'}), (18, {'res': '$x018.5'}), (24, {'lhs': '$16unary_negative.4', 'rhs': '$x018.5', 'res': '$24compare_op.6'}), (28, {'pred': '$24compare_op.6'})), outgoing_phis={'$phi30.0': '$x018.5'}, blockstack=(), active_try_block=None, outgoing_edgepushed={30: ('$x018.5',), 40: ('$x018.5',)})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=30 nstack_initial=1):
+AdaptBlockInfo(insts=((30, {'res': '$threshold30.1'}), (32, {'lhs': '$phi30.0', 'rhs': '$threshold30.1', 'res': '$32compare_op.2'}), (36, {'pred': '$32compare_op.2'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={38: (), 48: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=38 nstack_initial=0):
+AdaptBlockInfo(insts=((38, {}),), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={44: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=40 nstack_initial=1):
+AdaptBlockInfo(insts=((42, {}),), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={48: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=44 nstack_initial=0):
+AdaptBlockInfo(insts=((44, {'res': '$const44.0'}), (46, {'value': '$const44.0'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={48: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=48 nstack_initial=0):
+AdaptBlockInfo(insts=((48, {'res': '$x48.0'}), (50, {'res': '$const50.1'}), (52, {'index': '$const50.1', 'target': '$x48.0', 'res': '$52binary_subscr.2'}), (56, {'value': '$52binary_subscr.2'}), (58, {'res': '$threshold58.3'}), (60, {'value': '$threshold58.3', 'res': '$60unary_negative.4'}), (62, {'res': '$x162.5'}), (68, {'lhs': '$60unary_negative.4', 'rhs': '$x162.5', 'res': '$68compare_op.6'}), (72, {'pred': '$68compare_op.6'})), outgoing_phis={'$phi74.0': '$x162.5'}, blockstack=(), active_try_block=None, outgoing_edgepushed={74: ('$x162.5',), 84: ('$x162.5',)})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=74 nstack_initial=1):
+AdaptBlockInfo(insts=((74, {'res': '$threshold74.1'}), (76, {'lhs': '$phi74.0', 'rhs': '$threshold74.1', 'res': '$76compare_op.2'}), (80, {'pred': '$76compare_op.2'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={82: (), 92: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=82 nstack_initial=0):
+AdaptBlockInfo(insts=((82, {}),), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={88: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=84 nstack_initial=1):
+AdaptBlockInfo(insts=((86, {}),), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={92: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=88 nstack_initial=0):
+AdaptBlockInfo(insts=((88, {'res': '$const88.0'}), (90, {'value': '$const88.0'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={92: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=92 nstack_initial=0):
+AdaptBlockInfo(insts=((92, {'res': '$zero_pos92.0'}), (94, {'pred': '$zero_pos92.0'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={96: (), 182: ()})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=96 nstack_initial=0):
+AdaptBlockInfo(insts=((96, {'idx': 0, 'res': '$96load_global.0'}), (106, {'item': '$96load_global.0', 'res': '$106load_attr.2'}), (126, {'res': '$x0126.3'}), (128, {'func': '$106load_attr.2', 'args': ['$x0126.3'], 'kw_names': None, 'res': '$128call.4'}), (136, {'idx': 0, 'res': '$136load_global.5'}), (146, {'item': '$136load_global.5', 'res': '$146load_attr.7'}), (166, {'res': '$x1166.8'}), (168, {'func': '$146load_attr.7', 'args': ['$x1166.8'], 'kw_names': None, 'res': '$168call.9'}), (176, {'lhs': '$128call.4', 'rhs': '$168call.9', 'res': '$176compare_op.10'}), (180, {'retval': '$176compare_op.10', 'castval': '$180return_value.11'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:00,658 - DEBUG - block_infos State(pc_initial=182 nstack_initial=0):
+AdaptBlockInfo(insts=((182, {'idx': 0, 'res': '$182load_global.0'}), (192, {'item': '$182load_global.0', 'res': '$192load_attr.2'}), (212, {'res': '$x0212.3'}), (214, {'func': '$192load_attr.2', 'args': ['$x0212.3'], 'kw_names': None, 'res': '$214call.4'}), (222, {'idx': 0, 'res': '$222load_global.5'}), (232, {'item': '$222load_global.5', 'res': '$232load_attr.7'}), (252, {'res': '$x1252.8'}), (254, {'func': '$232load_attr.7', 'args': ['$x1252.8'], 'kw_names': None, 'res': '$254call.9'}), (262, {'lhs': '$214call.4', 'rhs': '$254call.9', 'res': '$262compare_op.10'}), (266, {'retval': '$262compare_op.10', 'castval': '$266return_value.11'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:00,658 - DEBUG - label 0:
+    x = arg(0, name=x)                       ['x']
+    threshold = arg(1, name=threshold)       ['threshold']
+    zero_pos = arg(2, name=zero_pos)         ['zero_pos']
+    $const6.1 = const(int, 0)                ['$const6.1']
+    x0 = getitem(value=x, index=$const6.1, fn=<built-in function getitem>) ['$const6.1', 'x', 'x0']
+    $16unary_negative.4 = unary(fn=<built-in function neg>, value=threshold) ['$16unary_negative.4', 'threshold']
+    $24compare_op.6 = $16unary_negative.4 <= x0 ['$16unary_negative.4', '$24compare_op.6', 'x0']
+    bool28 = global(bool: <class 'bool'>)    ['bool28']
+    $28pred = call bool28($24compare_op.6, func=bool28, args=(Var($24compare_op.6, audio.py:1145),), kws=(), vararg=None, varkwarg=None, target=None) ['$24compare_op.6', '$28pred', 'bool28']
+    $phi30.0 = x0                            ['$phi30.0', 'x0']
+    branch $28pred, 30, 40                   ['$28pred']
+label 30:
+    $32compare_op.2 = $phi30.0 <= threshold  ['$32compare_op.2', '$phi30.0', 'threshold']
+    bool36 = global(bool: <class 'bool'>)    ['bool36']
+    $36pred = call bool36($32compare_op.2, func=bool36, args=(Var($32compare_op.2, audio.py:1145),), kws=(), vararg=None, varkwarg=None, target=None) ['$32compare_op.2', '$36pred', 'bool36']
+    branch $36pred, 38, 48                   ['$36pred']
+label 38:
+    jump 44                                  []
+label 40:
+    jump 48                                  []
+label 44:
+    x0 = const(int, 0)                       ['x0']
+    jump 48                                  []
+label 48:
+    $const50.1 = const(int, -1)              ['$const50.1']
+    x1 = getitem(value=x, index=$const50.1, fn=<built-in function getitem>) ['$const50.1', 'x', 'x1']
+    $60unary_negative.4 = unary(fn=<built-in function neg>, value=threshold) ['$60unary_negative.4', 'threshold']
+    $68compare_op.6 = $60unary_negative.4 <= x1 ['$60unary_negative.4', '$68compare_op.6', 'x1']
+    bool72 = global(bool: <class 'bool'>)    ['bool72']
+    $72pred = call bool72($68compare_op.6, func=bool72, args=(Var($68compare_op.6, audio.py:1149),), kws=(), vararg=None, varkwarg=None, target=None) ['$68compare_op.6', '$72pred', 'bool72']
+    $phi74.0 = x1                            ['$phi74.0', 'x1']
+    branch $72pred, 74, 84                   ['$72pred']
+label 74:
+    $76compare_op.2 = $phi74.0 <= threshold  ['$76compare_op.2', '$phi74.0', 'threshold']
+    bool80 = global(bool: <class 'bool'>)    ['bool80']
+    $80pred = call bool80($76compare_op.2, func=bool80, args=(Var($76compare_op.2, audio.py:1149),), kws=(), vararg=None, varkwarg=None, target=None) ['$76compare_op.2', '$80pred', 'bool80']
+    branch $80pred, 82, 92                   ['$80pred']
+label 82:
+    jump 88                                  []
+label 84:
+    jump 92                                  []
+label 88:
+    x1 = const(int, 0)                       ['x1']
+    jump 92                                  []
+label 92:
+    bool94 = global(bool: <class 'bool'>)    ['bool94']
+    $94pred = call bool94(zero_pos, func=bool94, args=(Var(zero_pos, audio.py:1141),), kws=(), vararg=None, varkwarg=None, target=None) ['$94pred', 'bool94', 'zero_pos']
+    branch $94pred, 96, 182                  ['$94pred']
+label 96:
+    $96load_global.0 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$96load_global.0']
+    $106load_attr.2 = getattr(value=$96load_global.0, attr=signbit) ['$106load_attr.2', '$96load_global.0']
+    $128call.4 = call $106load_attr.2(x0, func=$106load_attr.2, args=[Var(x0, audio.py:1144)], kws=(), vararg=None, varkwarg=None, target=None) ['$106load_attr.2', '$128call.4', 'x0']
+    $136load_global.5 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$136load_global.5']
+    $146load_attr.7 = getattr(value=$136load_global.5, attr=signbit) ['$136load_global.5', '$146load_attr.7']
+    $168call.9 = call $146load_attr.7(x1, func=$146load_attr.7, args=[Var(x1, audio.py:1148)], kws=(), vararg=None, varkwarg=None, target=None) ['$146load_attr.7', '$168call.9', 'x1']
+    $176compare_op.10 = $128call.4 != $168call.9 ['$128call.4', '$168call.9', '$176compare_op.10']
+    $180return_value.11 = cast(value=$176compare_op.10) ['$176compare_op.10', '$180return_value.11']
+    return $180return_value.11               ['$180return_value.11']
+label 182:
+    $182load_global.0 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$182load_global.0']
+    $192load_attr.2 = getattr(value=$182load_global.0, attr=sign) ['$182load_global.0', '$192load_attr.2']
+    $214call.4 = call $192load_attr.2(x0, func=$192load_attr.2, args=[Var(x0, audio.py:1144)], kws=(), vararg=None, varkwarg=None, target=None) ['$192load_attr.2', '$214call.4', 'x0']
+    $222load_global.5 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$222load_global.5']
+    $232load_attr.7 = getattr(value=$222load_global.5, attr=sign) ['$222load_global.5', '$232load_attr.7']
+    $254call.9 = call $232load_attr.7(x1, func=$232load_attr.7, args=[Var(x1, audio.py:1148)], kws=(), vararg=None, varkwarg=None, target=None) ['$232load_attr.7', '$254call.9', 'x1']
+    $262compare_op.10 = $214call.4 != $254call.9 ['$214call.4', '$254call.9', '$262compare_op.10']
+    $266return_value.11 = cast(value=$262compare_op.10) ['$262compare_op.10', '$266return_value.11']
+    return $266return_value.11               ['$266return_value.11']
+
+2024-05-24 14:44:00,800 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:01,244 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:01,623 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:02,088 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:02,465 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:02,807 - DEBUG - bytecode dump:
+>          0	NOP(arg=None, lineno=1039)
+           2	RESUME(arg=0, lineno=1039)
+           4	LOAD_FAST(arg=0, lineno=1042)
+           6	LOAD_CONST(arg=1, lineno=1042)
+           8	BINARY_SUBSCR(arg=None, lineno=1042)
+          12	LOAD_FAST(arg=0, lineno=1042)
+          14	LOAD_CONST(arg=2, lineno=1042)
+          16	BINARY_SUBSCR(arg=None, lineno=1042)
+          20	COMPARE_OP(arg=68, lineno=1042)
+          24	LOAD_FAST(arg=0, lineno=1042)
+          26	LOAD_CONST(arg=1, lineno=1042)
+          28	BINARY_SUBSCR(arg=None, lineno=1042)
+          32	LOAD_FAST(arg=0, lineno=1042)
+          34	LOAD_CONST(arg=3, lineno=1042)
+          36	BINARY_SUBSCR(arg=None, lineno=1042)
+          40	COMPARE_OP(arg=92, lineno=1042)
+          44	BINARY_OP(arg=1, lineno=1042)
+          48	RETURN_VALUE(arg=None, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - pending: deque([State(pc_initial=0 nstack_initial=0)])
+2024-05-24 14:44:02,807 - DEBUG - stack: []
+2024-05-24 14:44:02,807 - DEBUG - state.pc_initial: State(pc_initial=0 nstack_initial=0)
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=0, inst=NOP(arg=None, lineno=1039)
+2024-05-24 14:44:02,807 - DEBUG - stack []
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=2, inst=RESUME(arg=0, lineno=1039)
+2024-05-24 14:44:02,807 - DEBUG - stack []
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=4, inst=LOAD_FAST(arg=0, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack []
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=6, inst=LOAD_CONST(arg=1, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$x4.0']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=8, inst=BINARY_SUBSCR(arg=None, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$x4.0', '$const6.1']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=12, inst=LOAD_FAST(arg=0, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$8binary_subscr.2']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=14, inst=LOAD_CONST(arg=2, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$8binary_subscr.2', '$x12.3']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=16, inst=BINARY_SUBSCR(arg=None, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$8binary_subscr.2', '$x12.3', '$const14.4']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=20, inst=COMPARE_OP(arg=68, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$8binary_subscr.2', '$16binary_subscr.5']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=24, inst=LOAD_FAST(arg=0, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$20compare_op.6']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=26, inst=LOAD_CONST(arg=1, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$20compare_op.6', '$x24.7']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=28, inst=BINARY_SUBSCR(arg=None, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$20compare_op.6', '$x24.7', '$const26.8']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=32, inst=LOAD_FAST(arg=0, lineno=1042)
+2024-05-24 14:44:02,807 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9']
+2024-05-24 14:44:02,807 - DEBUG - dispatch pc=34, inst=LOAD_CONST(arg=3, lineno=1042)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$x32.10']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=36, inst=BINARY_SUBSCR(arg=None, lineno=1042)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$x32.10', '$const34.11']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=40, inst=COMPARE_OP(arg=92, lineno=1042)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$36binary_subscr.12']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=44, inst=BINARY_OP(arg=1, lineno=1042)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$40compare_op.13']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=48, inst=RETURN_VALUE(arg=None, lineno=1042)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$binop_and_44.14']
+2024-05-24 14:44:02,823 - DEBUG - end state. edges=[]
+2024-05-24 14:44:02,823 - DEBUG - -------------------------Prune PHIs-------------------------
+2024-05-24 14:44:02,823 - DEBUG - Used_phis: defaultdict(<class 'set'>, {State(pc_initial=0 nstack_initial=0): set()})
+2024-05-24 14:44:02,823 - DEBUG - defmap: {}
+2024-05-24 14:44:02,823 - DEBUG - phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:02,823 - DEBUG - changing phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:02,823 - DEBUG - keep phismap: {}
+2024-05-24 14:44:02,823 - DEBUG - new_out: defaultdict(<class 'dict'>, {})
+2024-05-24 14:44:02,823 - DEBUG - ----------------------DONE Prune PHIs-----------------------
+2024-05-24 14:44:02,823 - DEBUG - block_infos State(pc_initial=0 nstack_initial=0):
+AdaptBlockInfo(insts=((0, {}), (2, {}), (4, {'res': '$x4.0'}), (6, {'res': '$const6.1'}), (8, {'index': '$const6.1', 'target': '$x4.0', 'res': '$8binary_subscr.2'}), (12, {'res': '$x12.3'}), (14, {'res': '$const14.4'}), (16, {'index': '$const14.4', 'target': '$x12.3', 'res': '$16binary_subscr.5'}), (20, {'lhs': '$8binary_subscr.2', 'rhs': '$16binary_subscr.5', 'res': '$20compare_op.6'}), (24, {'res': '$x24.7'}), (26, {'res': '$const26.8'}), (28, {'index': '$const26.8', 'target': '$x24.7', 'res': '$28binary_subscr.9'}), (32, {'res': '$x32.10'}), (34, {'res': '$const34.11'}), (36, {'index': '$const34.11', 'target': '$x32.10', 'res': '$36binary_subscr.12'}), (40, {'lhs': '$28binary_subscr.9', 'rhs': '$36binary_subscr.12', 'res': '$40compare_op.13'}), (44, {'op': '&', 'lhs': '$20compare_op.6', 'rhs': '$40compare_op.13', 'res': '$binop_and_44.14'}), (48, {'retval': '$binop_and_44.14', 'castval': '$48return_value.15'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:02,823 - DEBUG - label 0:
+    x = arg(0, name=x)                       ['x']
+    $const6.1 = const(int, 0)                ['$const6.1']
+    $8binary_subscr.2 = getitem(value=x, index=$const6.1, fn=<built-in function getitem>) ['$8binary_subscr.2', '$const6.1', 'x']
+    $const14.4 = const(int, -1)              ['$const14.4']
+    $16binary_subscr.5 = getitem(value=x, index=$const14.4, fn=<built-in function getitem>) ['$16binary_subscr.5', '$const14.4', 'x']
+    $20compare_op.6 = $8binary_subscr.2 > $16binary_subscr.5 ['$16binary_subscr.5', '$20compare_op.6', '$8binary_subscr.2']
+    $const26.8 = const(int, 0)               ['$const26.8']
+    $28binary_subscr.9 = getitem(value=x, index=$const26.8, fn=<built-in function getitem>) ['$28binary_subscr.9', '$const26.8', 'x']
+    $const34.11 = const(int, 1)              ['$const34.11']
+    $36binary_subscr.12 = getitem(value=x, index=$const34.11, fn=<built-in function getitem>) ['$36binary_subscr.12', '$const34.11', 'x']
+    $40compare_op.13 = $28binary_subscr.9 >= $36binary_subscr.12 ['$28binary_subscr.9', '$36binary_subscr.12', '$40compare_op.13']
+    $binop_and_44.14 = $20compare_op.6 & $40compare_op.13 ['$20compare_op.6', '$40compare_op.13', '$binop_and_44.14']
+    $48return_value.15 = cast(value=$binop_and_44.14) ['$48return_value.15', '$binop_and_44.14']
+    return $48return_value.15                ['$48return_value.15']
+
+2024-05-24 14:44:02,823 - DEBUG - bytecode dump:
+>          0	NOP(arg=None, lineno=1045)
+           2	RESUME(arg=0, lineno=1045)
+           4	LOAD_FAST(arg=0, lineno=1048)
+           6	LOAD_CONST(arg=1, lineno=1048)
+           8	BINARY_SUBSCR(arg=None, lineno=1048)
+          12	LOAD_FAST(arg=0, lineno=1048)
+          14	LOAD_CONST(arg=2, lineno=1048)
+          16	BINARY_SUBSCR(arg=None, lineno=1048)
+          20	COMPARE_OP(arg=2, lineno=1048)
+          24	LOAD_FAST(arg=0, lineno=1048)
+          26	LOAD_CONST(arg=1, lineno=1048)
+          28	BINARY_SUBSCR(arg=None, lineno=1048)
+          32	LOAD_FAST(arg=0, lineno=1048)
+          34	LOAD_CONST(arg=3, lineno=1048)
+          36	BINARY_SUBSCR(arg=None, lineno=1048)
+          40	COMPARE_OP(arg=26, lineno=1048)
+          44	BINARY_OP(arg=1, lineno=1048)
+          48	RETURN_VALUE(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - pending: deque([State(pc_initial=0 nstack_initial=0)])
+2024-05-24 14:44:02,823 - DEBUG - stack: []
+2024-05-24 14:44:02,823 - DEBUG - state.pc_initial: State(pc_initial=0 nstack_initial=0)
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=0, inst=NOP(arg=None, lineno=1045)
+2024-05-24 14:44:02,823 - DEBUG - stack []
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=2, inst=RESUME(arg=0, lineno=1045)
+2024-05-24 14:44:02,823 - DEBUG - stack []
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=4, inst=LOAD_FAST(arg=0, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack []
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=6, inst=LOAD_CONST(arg=1, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$x4.0']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=8, inst=BINARY_SUBSCR(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$x4.0', '$const6.1']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=12, inst=LOAD_FAST(arg=0, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$8binary_subscr.2']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=14, inst=LOAD_CONST(arg=2, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$8binary_subscr.2', '$x12.3']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=16, inst=BINARY_SUBSCR(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$8binary_subscr.2', '$x12.3', '$const14.4']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=20, inst=COMPARE_OP(arg=2, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$8binary_subscr.2', '$16binary_subscr.5']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=24, inst=LOAD_FAST(arg=0, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=26, inst=LOAD_CONST(arg=1, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$x24.7']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=28, inst=BINARY_SUBSCR(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$x24.7', '$const26.8']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=32, inst=LOAD_FAST(arg=0, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=34, inst=LOAD_CONST(arg=3, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$x32.10']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=36, inst=BINARY_SUBSCR(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$x32.10', '$const34.11']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=40, inst=COMPARE_OP(arg=26, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$28binary_subscr.9', '$36binary_subscr.12']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=44, inst=BINARY_OP(arg=1, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$20compare_op.6', '$40compare_op.13']
+2024-05-24 14:44:02,823 - DEBUG - dispatch pc=48, inst=RETURN_VALUE(arg=None, lineno=1048)
+2024-05-24 14:44:02,823 - DEBUG - stack ['$binop_and_44.14']
+2024-05-24 14:44:02,823 - DEBUG - end state. edges=[]
+2024-05-24 14:44:02,823 - DEBUG - -------------------------Prune PHIs-------------------------
+2024-05-24 14:44:02,823 - DEBUG - Used_phis: defaultdict(<class 'set'>, {State(pc_initial=0 nstack_initial=0): set()})
+2024-05-24 14:44:02,823 - DEBUG - defmap: {}
+2024-05-24 14:44:02,823 - DEBUG - phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:02,823 - DEBUG - changing phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:02,823 - DEBUG - keep phismap: {}
+2024-05-24 14:44:02,823 - DEBUG - new_out: defaultdict(<class 'dict'>, {})
+2024-05-24 14:44:02,823 - DEBUG - ----------------------DONE Prune PHIs-----------------------
+2024-05-24 14:44:02,823 - DEBUG - block_infos State(pc_initial=0 nstack_initial=0):
+AdaptBlockInfo(insts=((0, {}), (2, {}), (4, {'res': '$x4.0'}), (6, {'res': '$const6.1'}), (8, {'index': '$const6.1', 'target': '$x4.0', 'res': '$8binary_subscr.2'}), (12, {'res': '$x12.3'}), (14, {'res': '$const14.4'}), (16, {'index': '$const14.4', 'target': '$x12.3', 'res': '$16binary_subscr.5'}), (20, {'lhs': '$8binary_subscr.2', 'rhs': '$16binary_subscr.5', 'res': '$20compare_op.6'}), (24, {'res': '$x24.7'}), (26, {'res': '$const26.8'}), (28, {'index': '$const26.8', 'target': '$x24.7', 'res': '$28binary_subscr.9'}), (32, {'res': '$x32.10'}), (34, {'res': '$const34.11'}), (36, {'index': '$const34.11', 'target': '$x32.10', 'res': '$36binary_subscr.12'}), (40, {'lhs': '$28binary_subscr.9', 'rhs': '$36binary_subscr.12', 'res': '$40compare_op.13'}), (44, {'op': '&', 'lhs': '$20compare_op.6', 'rhs': '$40compare_op.13', 'res': '$binop_and_44.14'}), (48, {'retval': '$binop_and_44.14', 'castval': '$48return_value.15'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:02,823 - DEBUG - label 0:
+    x = arg(0, name=x)                       ['x']
+    $const6.1 = const(int, 0)                ['$const6.1']
+    $8binary_subscr.2 = getitem(value=x, index=$const6.1, fn=<built-in function getitem>) ['$8binary_subscr.2', '$const6.1', 'x']
+    $const14.4 = const(int, -1)              ['$const14.4']
+    $16binary_subscr.5 = getitem(value=x, index=$const14.4, fn=<built-in function getitem>) ['$16binary_subscr.5', '$const14.4', 'x']
+    $20compare_op.6 = $8binary_subscr.2 < $16binary_subscr.5 ['$16binary_subscr.5', '$20compare_op.6', '$8binary_subscr.2']
+    $const26.8 = const(int, 0)               ['$const26.8']
+    $28binary_subscr.9 = getitem(value=x, index=$const26.8, fn=<built-in function getitem>) ['$28binary_subscr.9', '$const26.8', 'x']
+    $const34.11 = const(int, 1)              ['$const34.11']
+    $36binary_subscr.12 = getitem(value=x, index=$const34.11, fn=<built-in function getitem>) ['$36binary_subscr.12', '$const34.11', 'x']
+    $40compare_op.13 = $28binary_subscr.9 <= $36binary_subscr.12 ['$28binary_subscr.9', '$36binary_subscr.12', '$40compare_op.13']
+    $binop_and_44.14 = $20compare_op.6 & $40compare_op.13 ['$20compare_op.6', '$40compare_op.13', '$binop_and_44.14']
+    $48return_value.15 = cast(value=$binop_and_44.14) ['$48return_value.15', '$binop_and_44.14']
+    return $48return_value.15                ['$48return_value.15']
+
+2024-05-24 14:44:02,871 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:04,122 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:04,122 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:04,139 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:04,139 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:04,140 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:04,140 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:04,151 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:04,151 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:04,155 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:04,155 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:04,162 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:04,162 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:04,166 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:04,166 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:04,166 - INFO - Segmented file saved: segment_7.wav
+2024-05-24 14:44:04,166 - INFO - Segmented file saved: segment_7.wav
+2024-05-24 14:44:04,176 - INFO - Segmented file saved: segment_8.wav
+2024-05-24 14:44:04,176 - INFO - Segmented file saved: segment_8.wav
+2024-05-24 14:44:04,183 - INFO - Segmented file saved: segment_9.wav
+2024-05-24 14:44:04,183 - INFO - Segmented file saved: segment_9.wav
+2024-05-24 14:44:04,193 - INFO - Segmented file saved: segment_10.wav
+2024-05-24 14:44:04,193 - INFO - Segmented file saved: segment_10.wav
+2024-05-24 14:44:04,194 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav', 'segment_10.wav']
+2024-05-24 14:44:04,194 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav', 'segment_10.wav']
+2024-05-24 14:44:04,195 - INFO - Starting audio batch analysis
+2024-05-24 14:44:04,195 - INFO - Starting audio batch analysis
+2024-05-24 14:44:04,261 - DEBUG - 12 changes detected: {(<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_7.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_10.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_8.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_9.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav')}
+2024-05-24 14:44:04,653 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\.git\\FETCH_HEAD')}
+2024-05-24 14:44:05,031 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:05,424 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:05,534 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:05,534 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:05,534 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:05,548 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:05,534 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:05,548 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:05,550 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:05,548 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:05,548 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:05,550 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:05,550 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:05,550 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:05,550 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:05,550 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:05,550 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:05,550 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:05,563 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,563 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,566 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:05,566 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,566 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:05,569 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:05,566 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,569 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:05,569 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,569 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,569 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,569 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,569 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:05,569 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:05,569 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:05,569 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:05,569 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:05,569 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:05,582 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:05,582 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:05,582 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,582 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,582 - INFO - Processing audio: segment_7.wav
+2024-05-24 14:44:05,582 - INFO - Processing audio: segment_7.wav
+2024-05-24 14:44:05,591 - INFO - Extracting features from: segment_7.wav
+2024-05-24 14:44:05,591 - INFO - Processing audio: segment_8.wav
+2024-05-24 14:44:05,591 - INFO - Extracting features from: segment_7.wav
+2024-05-24 14:44:05,591 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,591 - INFO - Processing audio: segment_8.wav
+2024-05-24 14:44:05,591 - INFO - Extracting features from: segment_8.wav
+2024-05-24 14:44:05,591 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,591 - INFO - Extracting features from: segment_8.wav
+2024-05-24 14:44:05,598 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,598 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,598 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,598 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,615 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,615 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,628 - INFO - Processing audio: segment_9.wav
+2024-05-24 14:44:05,628 - INFO - Processing audio: segment_9.wav
+2024-05-24 14:44:05,630 - INFO - Extracting features from: segment_9.wav
+2024-05-24 14:44:05,630 - INFO - Extracting features from: segment_9.wav
+2024-05-24 14:44:05,633 - INFO - Processing audio: segment_10.wav
+2024-05-24 14:44:05,633 - INFO - Processing audio: segment_10.wav
+2024-05-24 14:44:05,633 - INFO - Extracting features from: segment_10.wav
+2024-05-24 14:44:05,633 - INFO - Extracting features from: segment_10.wav
+2024-05-24 14:44:05,646 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,646 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,646 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,646 - INFO - Extracting MFCCs
+2024-05-24 14:44:05,663 - DEBUG - bytecode dump:
+>          0	NOP(arg=None, lineno=425)
+           2	RESUME(arg=0, lineno=425)
+           4	LOAD_FAST(arg=0, lineno=428)
+           6	LOAD_CONST(arg=1, lineno=428)
+           8	BINARY_SUBSCR(arg=None, lineno=428)
+          12	LOAD_FAST(arg=0, lineno=428)
+          14	LOAD_CONST(arg=2, lineno=428)
+          16	BINARY_SUBSCR(arg=None, lineno=428)
+          20	BINARY_OP(arg=0, lineno=428)
+          24	LOAD_CONST(arg=3, lineno=428)
+          26	LOAD_FAST(arg=0, lineno=428)
+          28	LOAD_CONST(arg=4, lineno=428)
+          30	BINARY_SUBSCR(arg=None, lineno=428)
+          34	BINARY_OP(arg=5, lineno=428)
+          38	BINARY_OP(arg=10, lineno=428)
+          42	STORE_FAST(arg=1, lineno=428)
+          44	LOAD_FAST(arg=0, lineno=429)
+          46	LOAD_CONST(arg=1, lineno=429)
+          48	BINARY_SUBSCR(arg=None, lineno=429)
+          52	LOAD_FAST(arg=0, lineno=429)
+          54	LOAD_CONST(arg=2, lineno=429)
+          56	BINARY_SUBSCR(arg=None, lineno=429)
+          60	BINARY_OP(arg=10, lineno=429)
+          64	LOAD_CONST(arg=3, lineno=429)
+          66	BINARY_OP(arg=11, lineno=429)
+          70	STORE_FAST(arg=2, lineno=429)
+          72	LOAD_GLOBAL(arg=1, lineno=431)
+          82	LOAD_ATTR(arg=2, lineno=431)
+         102	LOAD_FAST(arg=2, lineno=431)
+         104	CALL(arg=1, lineno=431)
+         112	LOAD_GLOBAL(arg=1, lineno=431)
+         122	LOAD_ATTR(arg=2, lineno=431)
+         142	LOAD_FAST(arg=1, lineno=431)
+         144	CALL(arg=1, lineno=431)
+         152	COMPARE_OP(arg=92, lineno=431)
+         156	POP_JUMP_IF_FALSE(arg=1, lineno=431)
+         158	RETURN_CONST(arg=4, lineno=434)
+>        160	LOAD_FAST(arg=2, lineno=436)
+         162	UNARY_NEGATIVE(arg=None, lineno=436)
+         164	LOAD_FAST(arg=1, lineno=436)
+         166	BINARY_OP(arg=11, lineno=436)
+         170	RETURN_VALUE(arg=None, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - pending: deque([State(pc_initial=0 nstack_initial=0)])
+2024-05-24 14:44:05,663 - DEBUG - stack: []
+2024-05-24 14:44:05,663 - DEBUG - state.pc_initial: State(pc_initial=0 nstack_initial=0)
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=0, inst=NOP(arg=None, lineno=425)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=2, inst=RESUME(arg=0, lineno=425)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=4, inst=LOAD_FAST(arg=0, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=6, inst=LOAD_CONST(arg=1, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$x4.0']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=8, inst=BINARY_SUBSCR(arg=None, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$x4.0', '$const6.1']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=12, inst=LOAD_FAST(arg=0, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$8binary_subscr.2']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=14, inst=LOAD_CONST(arg=2, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$8binary_subscr.2', '$x12.3']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=16, inst=BINARY_SUBSCR(arg=None, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$8binary_subscr.2', '$x12.3', '$const14.4']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=20, inst=BINARY_OP(arg=0, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$8binary_subscr.2', '$16binary_subscr.5']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=24, inst=LOAD_CONST(arg=3, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=26, inst=LOAD_FAST(arg=0, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6', '$const24.7']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=28, inst=LOAD_CONST(arg=4, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6', '$const24.7', '$x26.8']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=30, inst=BINARY_SUBSCR(arg=None, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6', '$const24.7', '$x26.8', '$const28.9']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=34, inst=BINARY_OP(arg=5, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6', '$const24.7', '$30binary_subscr.10']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=38, inst=BINARY_OP(arg=10, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_add20.6', '$binop_mul34.11']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=42, inst=STORE_FAST(arg=1, lineno=428)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_sub38.12']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=44, inst=LOAD_FAST(arg=0, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=46, inst=LOAD_CONST(arg=1, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$x44.13']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=48, inst=BINARY_SUBSCR(arg=None, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$x44.13', '$const46.14']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=52, inst=LOAD_FAST(arg=0, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$48binary_subscr.15']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=54, inst=LOAD_CONST(arg=2, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$48binary_subscr.15', '$x52.16']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=56, inst=BINARY_SUBSCR(arg=None, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$48binary_subscr.15', '$x52.16', '$const54.17']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=60, inst=BINARY_OP(arg=10, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$48binary_subscr.15', '$56binary_subscr.18']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=64, inst=LOAD_CONST(arg=3, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_sub60.19']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=66, inst=BINARY_OP(arg=11, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_sub60.19', '$const64.20']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=70, inst=STORE_FAST(arg=2, lineno=429)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_truediv66.21']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=72, inst=LOAD_GLOBAL(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=82, inst=LOAD_ATTR(arg=2, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$null$72.23', '$72load_global.22']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=102, inst=LOAD_FAST(arg=2, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$null$72.23', '$82load_attr.24']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=104, inst=CALL(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$null$72.23', '$82load_attr.24', '$b102.25']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=112, inst=LOAD_GLOBAL(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$104call.26']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=122, inst=LOAD_ATTR(arg=2, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$104call.26', '$null$112.28', '$112load_global.27']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=142, inst=LOAD_FAST(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$104call.26', '$null$112.28', '$122load_attr.29']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=144, inst=CALL(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$104call.26', '$null$112.28', '$122load_attr.29', '$a142.30']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=152, inst=COMPARE_OP(arg=92, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$104call.26', '$144call.31']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=156, inst=POP_JUMP_IF_FALSE(arg=1, lineno=431)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$152compare_op.32']
+2024-05-24 14:44:05,663 - DEBUG - end state. edges=[Edge(pc=158, stack=(), blockstack=(), npush=0), Edge(pc=160, stack=(), blockstack=(), npush=0)]
+2024-05-24 14:44:05,663 - DEBUG - pending: deque([State(pc_initial=158 nstack_initial=0), State(pc_initial=160 nstack_initial=0)])
+2024-05-24 14:44:05,663 - DEBUG - stack: []
+2024-05-24 14:44:05,663 - DEBUG - state.pc_initial: State(pc_initial=158 nstack_initial=0)
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=158, inst=RETURN_CONST(arg=4, lineno=434)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - end state. edges=[]
+2024-05-24 14:44:05,663 - DEBUG - pending: deque([State(pc_initial=160 nstack_initial=0)])
+2024-05-24 14:44:05,663 - DEBUG - stack: []
+2024-05-24 14:44:05,663 - DEBUG - state.pc_initial: State(pc_initial=160 nstack_initial=0)
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=160, inst=LOAD_FAST(arg=2, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - stack []
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=162, inst=UNARY_NEGATIVE(arg=None, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$b160.0']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=164, inst=LOAD_FAST(arg=1, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$162unary_negative.1']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=166, inst=BINARY_OP(arg=11, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$162unary_negative.1', '$a164.2']
+2024-05-24 14:44:05,663 - DEBUG - dispatch pc=170, inst=RETURN_VALUE(arg=None, lineno=436)
+2024-05-24 14:44:05,663 - DEBUG - stack ['$binop_truediv166.3']
+2024-05-24 14:44:05,663 - DEBUG - end state. edges=[]
+2024-05-24 14:44:05,663 - DEBUG - -------------------------Prune PHIs-------------------------
+2024-05-24 14:44:05,663 - DEBUG - Used_phis: defaultdict(<class 'set'>,
+            {State(pc_initial=0 nstack_initial=0): set(),
+             State(pc_initial=158 nstack_initial=0): set(),
+             State(pc_initial=160 nstack_initial=0): set()})
+2024-05-24 14:44:05,663 - DEBUG - defmap: {}
+2024-05-24 14:44:05,663 - DEBUG - phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:05,663 - DEBUG - changing phismap: defaultdict(<class 'set'>, {})
+2024-05-24 14:44:05,663 - DEBUG - keep phismap: {}
+2024-05-24 14:44:05,663 - DEBUG - new_out: defaultdict(<class 'dict'>, {})
+2024-05-24 14:44:05,663 - DEBUG - ----------------------DONE Prune PHIs-----------------------
+2024-05-24 14:44:05,663 - DEBUG - block_infos State(pc_initial=0 nstack_initial=0):
+AdaptBlockInfo(insts=((0, {}), (2, {}), (4, {'res': '$x4.0'}), (6, {'res': '$const6.1'}), (8, {'index': '$const6.1', 'target': '$x4.0', 'res': '$8binary_subscr.2'}), (12, {'res': '$x12.3'}), (14, {'res': '$const14.4'}), (16, {'index': '$const14.4', 'target': '$x12.3', 'res': '$16binary_subscr.5'}), (20, {'op': '+', 'lhs': '$8binary_subscr.2', 'rhs': '$16binary_subscr.5', 'res': '$binop_add20.6'}), (24, {'res': '$const24.7'}), (26, {'res': '$x26.8'}), (28, {'res': '$const28.9'}), (30, {'index': '$const28.9', 'target': '$x26.8', 'res': '$30binary_subscr.10'}), (34, {'op': '*', 'lhs': '$const24.7', 'rhs': '$30binary_subscr.10', 'res': '$binop_mul34.11'}), (38, {'op': '-', 'lhs': '$binop_add20.6', 'rhs': '$binop_mul34.11', 'res': '$binop_sub38.12'}), (42, {'value': '$binop_sub38.12'}), (44, {'res': '$x44.13'}), (46, {'res': '$const46.14'}), (48, {'index': '$const46.14', 'target': '$x44.13', 'res': '$48binary_subscr.15'}), (52, {'res': '$x52.16'}), (54, {'res': '$const54.17'}), (56, {'index': '$const54.17', 'target': '$x52.16', 'res': '$56binary_subscr.18'}), (60, {'op': '-', 'lhs': '$48binary_subscr.15', 'rhs': '$56binary_subscr.18', 'res': '$binop_sub60.19'}), (64, {'res': '$const64.20'}), (66, {'op': '/', 'lhs': '$binop_sub60.19', 'rhs': '$const64.20', 'res': '$binop_truediv66.21'}), (70, {'value': '$binop_truediv66.21'}), (72, {'idx': 0, 'res': '$72load_global.22'}), (82, {'item': '$72load_global.22', 'res': '$82load_attr.24'}), (102, {'res': '$b102.25'}), (104, {'func': '$82load_attr.24', 'args': ['$b102.25'], 'kw_names': None, 'res': '$104call.26'}), (112, {'idx': 0, 'res': '$112load_global.27'}), (122, {'item': '$112load_global.27', 'res': '$122load_attr.29'}), (142, {'res': '$a142.30'}), (144, {'func': '$122load_attr.29', 'args': ['$a142.30'], 'kw_names': None, 'res': '$144call.31'}), (152, {'lhs': '$104call.26', 'rhs': '$144call.31', 'res': '$152compare_op.32'}), (156, {'pred': '$152compare_op.32'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={158: (), 160: ()})
+2024-05-24 14:44:05,663 - DEBUG - block_infos State(pc_initial=158 nstack_initial=0):
+AdaptBlockInfo(insts=((158, {'retval': '$const158.0', 'castval': '$158return_const.1'}),), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:05,663 - DEBUG - block_infos State(pc_initial=160 nstack_initial=0):
+AdaptBlockInfo(insts=((160, {'res': '$b160.0'}), (162, {'value': '$b160.0', 'res': '$162unary_negative.1'}), (164, {'res': '$a164.2'}), (166, {'op': '/', 'lhs': '$162unary_negative.1', 'rhs': '$a164.2', 'res': '$binop_truediv166.3'}), (170, {'retval': '$binop_truediv166.3', 'castval': '$170return_value.4'})), outgoing_phis={}, blockstack=(), active_try_block=None, outgoing_edgepushed={})
+2024-05-24 14:44:05,663 - DEBUG - label 0:
+    x = arg(0, name=x)                       ['x']
+    $const6.1 = const(int, 1)                ['$const6.1']
+    $8binary_subscr.2 = getitem(value=x, index=$const6.1, fn=<built-in function getitem>) ['$8binary_subscr.2', '$const6.1', 'x']
+    $const14.4 = const(int, -1)              ['$const14.4']
+    $16binary_subscr.5 = getitem(value=x, index=$const14.4, fn=<built-in function getitem>) ['$16binary_subscr.5', '$const14.4', 'x']
+    $binop_add20.6 = $8binary_subscr.2 + $16binary_subscr.5 ['$16binary_subscr.5', '$8binary_subscr.2', '$binop_add20.6']
+    $const24.7 = const(int, 2)               ['$const24.7']
+    $const28.9 = const(int, 0)               ['$const28.9']
+    $30binary_subscr.10 = getitem(value=x, index=$const28.9, fn=<built-in function getitem>) ['$30binary_subscr.10', '$const28.9', 'x']
+    $binop_mul34.11 = $const24.7 * $30binary_subscr.10 ['$30binary_subscr.10', '$binop_mul34.11', '$const24.7']
+    a = $binop_add20.6 - $binop_mul34.11     ['$binop_add20.6', '$binop_mul34.11', 'a']
+    $const46.14 = const(int, 1)              ['$const46.14']
+    $48binary_subscr.15 = getitem(value=x, index=$const46.14, fn=<built-in function getitem>) ['$48binary_subscr.15', '$const46.14', 'x']
+    $const54.17 = const(int, -1)             ['$const54.17']
+    $56binary_subscr.18 = getitem(value=x, index=$const54.17, fn=<built-in function getitem>) ['$56binary_subscr.18', '$const54.17', 'x']
+    $binop_sub60.19 = $48binary_subscr.15 - $56binary_subscr.18 ['$48binary_subscr.15', '$56binary_subscr.18', '$binop_sub60.19']
+    $const64.20 = const(int, 2)              ['$const64.20']
+    b = $binop_sub60.19 / $const64.20        ['$binop_sub60.19', '$const64.20', 'b']
+    $72load_global.22 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$72load_global.22']
+    $82load_attr.24 = getattr(value=$72load_global.22, attr=abs) ['$72load_global.22', '$82load_attr.24']
+    $104call.26 = call $82load_attr.24(b, func=$82load_attr.24, args=[Var(b, pitch.py:429)], kws=(), vararg=None, varkwarg=None, target=None) ['$104call.26', '$82load_attr.24', 'b']
+    $112load_global.27 = global(np: <module 'numpy' from 'C:\\Users\\noorh\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy\\__init__.py'>) ['$112load_global.27']
+    $122load_attr.29 = getattr(value=$112load_global.27, attr=abs) ['$112load_global.27', '$122load_attr.29']
+    $144call.31 = call $122load_attr.29(a, func=$122load_attr.29, args=[Var(a, pitch.py:428)], kws=(), vararg=None, varkwarg=None, target=None) ['$122load_attr.29', '$144call.31', 'a']
+    $152compare_op.32 = $104call.26 >= $144call.31 ['$104call.26', '$144call.31', '$152compare_op.32']
+    bool156 = global(bool: <class 'bool'>)   ['bool156']
+    $156pred = call bool156($152compare_op.32, func=bool156, args=(Var($152compare_op.32, pitch.py:431),), kws=(), vararg=None, varkwarg=None, target=None) ['$152compare_op.32', '$156pred', 'bool156']
+    branch $156pred, 158, 160                ['$156pred']
+label 158:
+    $const158.0 = const(int, 0)              ['$const158.0']
+    $158return_const.1 = cast(value=$const158.0) ['$158return_const.1', '$const158.0']
+    return $158return_const.1                ['$158return_const.1']
+label 160:
+    $162unary_negative.1 = unary(fn=<built-in function neg>, value=b) ['$162unary_negative.1', 'b']
+    $binop_truediv166.3 = $162unary_negative.1 / a ['$162unary_negative.1', '$binop_truediv166.3', 'a']
+    $170return_value.4 = cast(value=$binop_truediv166.3) ['$170return_value.4', '$binop_truediv166.3']
+    return $170return_value.4                ['$170return_value.4']
+
+2024-05-24 14:44:05,819 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,929 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,944 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,944 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,944 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,944 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,952 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,952 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,952 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,952 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,960 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,960 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,963 - INFO - Extracting LPCCs
+2024-05-24 14:44:05,992 - INFO - Computing LPCC
+2024-05-24 14:44:05,992 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:05,992 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Estimating VOT for: segment_9.wav
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:05,992 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,023 - INFO - Estimating VOT for: segment_8.wav
+2024-05-24 14:44:06,023 - INFO - Estimating VOT for: segment_8.wav
+2024-05-24 14:44:06,007 - INFO - Estimating VOT for: segment_10.wav
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,007 - INFO - Estimating VOT for: segment_9.wav
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,054 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,039 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,023 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:06,007 - INFO - Computing LPCC
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:06,071 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,071 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:06,071 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:06,086 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,054 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,086 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,086 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,102 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,102 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:06,039 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,102 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,023 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:06,102 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:06,118 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,064 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:06,118 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,007 - INFO - Estimating VOT for: segment_10.wav
+2024-05-24 14:44:06,133 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,071 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,133 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,133 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:06,086 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,133 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,023 - INFO - Computing LPCC
+2024-05-24 14:44:06,133 - INFO - Estimating VOT for: segment_7.wav
+2024-05-24 14:44:06,102 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,102 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:06,151 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,102 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,161 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,102 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,161 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,118 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,164 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,118 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,165 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,133 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,165 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,165 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,165 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,133 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:06,180 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,133 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,133 - INFO - Estimating VOT for: segment_7.wav
+2024-05-24 14:44:06,180 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,196 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:06,196 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,151 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,196 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,196 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,196 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,161 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,164 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,196 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,207 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,165 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,207 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,133 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,212 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,165 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,180 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,212 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,180 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,196 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:06,212 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,161 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,196 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,196 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,207 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,207 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,212 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,212 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,228 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,212 - INFO - Computing energy and ZCR
+2024-05-24 14:44:06,228 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,228 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,228 - INFO - Finding burst and periodicity
+2024-05-24 14:44:06,228 - INFO - Total time taken: 2.03 seconds
+2024-05-24 14:44:06,228 - INFO - Total time taken: 2.03 seconds
+2024-05-24 14:44:06,228 - INFO - Predictions: [0 0 0 0 0 0 0 0 0 0 0]
+2024-05-24 14:44:06,228 - INFO - Predictions: [0 0 0 0 0 0 0 0 0 0 0]
+2024-05-24 14:44:06,243 - INFO - Probabilities: [[0.99188485 0.00811515]
+ [0.9911679  0.0088321 ]
+ [0.99322239 0.00677761]
+ [0.99133361 0.00866639]
+ [0.99230262 0.00769738]
+ [0.99119151 0.00880849]
+ [0.99221964 0.00778036]
+ [0.99161814 0.00838186]
+ [0.99175438 0.00824562]
+ [0.99174697 0.00825303]
+ [0.99366045 0.00633955]]
+2024-05-24 14:44:06,243 - INFO - Probabilities: [[0.99188485 0.00811515]
+ [0.9911679  0.0088321 ]
+ [0.99322239 0.00677761]
+ [0.99133361 0.00866639]
+ [0.99230262 0.00769738]
+ [0.99119151 0.00880849]
+ [0.99221964 0.00778036]
+ [0.99161814 0.00838186]
+ [0.99175438 0.00824562]
+ [0.99174697 0.00825303]
+ [0.99366045 0.00633955]]
+2024-05-24 14:44:06,243 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:06,243 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:06,243 - INFO - None
+2024-05-24 14:44:06,243 - INFO - None
+2024-05-24 14:44:06,259 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:06,259 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:06,261 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav', 'segment_10.wav']
+2024-05-24 14:44:06,261 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav', 'segment_10.wav']
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:06,264 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:06,274 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_7.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_7.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_8.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_8.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_9.wav
+2024-05-24 14:44:06,280 - INFO - Deleted file: segment_9.wav
+2024-05-24 14:44:06,283 - INFO - Deleted file: segment_10.wav
+2024-05-24 14:44:06,283 - INFO - Deleted file: segment_10.wav
+2024-05-24 14:44:06,575 - DEBUG - 13 changes detected: {(<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_10.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_8.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_9.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\file_metadata.json'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_7.wav')}
+2024-05-24 14:44:06,954 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:07,351 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:07,729 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:08,100 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:08,478 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:08,863 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:09,291 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:09,722 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:10,151 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:10,548 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:10,927 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:11,374 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:11,757 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:12,132 - DEBUG - 2 changes detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\.git\\FETCH_HEAD')}
+2024-05-24 14:44:12,637 - DEBUG - 4 changes detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\.git\\objects\\maintenance.lock'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\.git\\objects\\maintenance.lock'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\.git\\objects')}
+2024-05-24 14:44:13,047 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:13,438 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:13,823 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:14,214 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:14,593 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:15,032 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:15,421 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:15,799 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:16,210 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:16,591 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:17,033 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:17,484 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:17,877 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:18,319 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:18,696 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:19,135 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:19,516 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:19,899 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:20,326 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:20,707 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:21,088 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:21,528 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:21,967 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:22,353 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:22,786 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:23,166 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:23,649 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:24,025 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:24,463 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:24,836 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:25,248 - DEBUG - Calling on_part_begin with no data
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_field with data[42:61]
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_value with data[63:148]
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_field with data[150:162]
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_value with data[164:173]
+2024-05-24 14:44:25,250 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:44:25,250 - DEBUG - Calling on_headers_finished with no data
+2024-05-24 14:44:25,250 - DEBUG - Calling on_part_data with data[177:2088]
+2024-05-24 14:44:25,250 - DEBUG - Calling on_part_end with no data
+2024-05-24 14:44:25,250 - DEBUG - Calling on_end with no data
+2024-05-24 14:44:25,253 - INFO - File saved to: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,253 - INFO - File saved to: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,255 - INFO - File saved to: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,255 - INFO - File saved to: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,255 - INFO - Normalized file path: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,255 - INFO - Normalized file path: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,269 - INFO - Loading audio file: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,269 - INFO - Loading audio file: uploads\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav
+2024-05-24 14:44:25,331 - DEBUG - 2 changes detected: {(<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\uploads\\recording_2024-05-24T09-44-25.227Z_6mz40zx8een.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:25,513 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:25,513 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:25,522 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:25,522 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:25,523 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:25,523 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:25,532 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:25,532 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:25,537 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:25,537 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:25,540 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:25,540 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:25,547 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:25,547 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:25,547 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav']
+2024-05-24 14:44:25,547 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav']
+2024-05-24 14:44:25,548 - INFO - Starting audio batch analysis
+2024-05-24 14:44:25,548 - INFO - Starting audio batch analysis
+2024-05-24 14:44:25,557 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:25,557 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:25,557 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:25,557 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:25,557 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:25,557 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:25,561 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:25,557 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:25,557 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:25,561 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:25,563 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:25,563 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:25,573 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,573 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,579 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:25,579 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:25,580 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:25,580 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:25,587 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,587 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,587 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:25,587 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:25,593 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:25,593 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:25,593 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:25,597 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,593 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:25,597 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:25,593 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:25,599 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,593 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:25,601 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:25,597 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,597 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:25,599 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,601 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:25,613 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,613 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,619 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,619 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,628 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,630 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,628 - INFO - Extracting MFCCs
+2024-05-24 14:44:25,633 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,630 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,643 - INFO - Computing LPCC
+2024-05-24 14:44:25,633 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,653 - INFO - Computing LPCC
+2024-05-24 14:44:25,643 - INFO - Computing LPCC
+2024-05-24 14:44:25,653 - INFO - Computing LPCC
+2024-05-24 14:44:25,663 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:25,667 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:25,663 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:25,668 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,667 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:25,673 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,668 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,673 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,673 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,678 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,673 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,678 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,713 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,713 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,726 - DEBUG - 9 changes detected: {(<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\uploads'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav')}
+2024-05-24 14:44:25,734 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,734 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,758 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,758 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,769 - INFO - Computing LPCC
+2024-05-24 14:44:25,769 - INFO - Computing LPCC
+2024-05-24 14:44:25,773 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:25,773 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:25,784 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,784 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,786 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,786 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,786 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,799 - INFO - Computing LPCC
+2024-05-24 14:44:25,786 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,799 - INFO - Computing LPCC
+2024-05-24 14:44:25,815 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,815 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:25,815 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,815 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:25,815 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,815 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,815 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,815 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,826 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,826 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,836 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,836 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,848 - INFO - Computing LPCC
+2024-05-24 14:44:25,848 - INFO - Computing LPCC
+2024-05-24 14:44:25,850 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:25,850 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:25,851 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,851 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,851 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,851 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,853 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,853 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,866 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,866 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,873 - INFO - Computing LPCC
+2024-05-24 14:44:25,874 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,873 - INFO - Computing LPCC
+2024-05-24 14:44:25,874 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:25,874 - INFO - Extracting LPCCs
+2024-05-24 14:44:25,884 - INFO - Computing LPCC
+2024-05-24 14:44:25,874 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:25,884 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,884 - INFO - Computing LPCC
+2024-05-24 14:44:25,888 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:25,884 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,888 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,888 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:25,888 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,888 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,888 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:25,893 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,893 - INFO - Computing energy and ZCR
+2024-05-24 14:44:25,903 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,908 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,903 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,908 - INFO - Finding burst and periodicity
+2024-05-24 14:44:25,917 - INFO - Total time taken: 0.37 seconds
+2024-05-24 14:44:25,917 - INFO - Total time taken: 0.37 seconds
+2024-05-24 14:44:25,917 - INFO - Predictions: [0 0 0 0 0 0 0]
+2024-05-24 14:44:25,917 - INFO - Predictions: [0 0 0 0 0 0 0]
+2024-05-24 14:44:25,921 - INFO - Probabilities: [[0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]]
+2024-05-24 14:44:25,921 - INFO - Probabilities: [[0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]
+ [0.99101122 0.00898878]]
+2024-05-24 14:44:25,923 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:25,923 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:25,923 - INFO - None
+2024-05-24 14:44:25,923 - INFO - None
+2024-05-24 14:44:25,923 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:25,923 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:25,923 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav']
+2024-05-24 14:44:25,923 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav']
+2024-05-24 14:44:25,930 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:25,930 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:25,930 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:25,930 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:25,934 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:25,938 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:25,938 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:25,940 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:25,940 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:26,103 - DEBUG - 9 changes detected: {(<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\file_metadata.json'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav')}
+2024-05-24 14:44:26,492 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:26,886 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:27,254 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:27,668 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:28,050 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:28,468 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:28,853 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:29,294 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:29,718 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:30,163 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:30,549 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:30,932 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:31,367 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:31,803 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:32,227 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:32,600 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:33,046 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:33,473 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:33,852 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:34,297 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:34,677 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:35,118 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:35,501 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:35,862 - DEBUG - Calling on_part_begin with no data
+2024-05-24 14:44:35,862 - DEBUG - Calling on_header_field with data[42:61]
+2024-05-24 14:44:35,862 - DEBUG - Calling on_header_value with data[63:148]
+2024-05-24 14:44:35,862 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:44:35,863 - DEBUG - Calling on_header_field with data[150:162]
+2024-05-24 14:44:35,863 - DEBUG - Calling on_header_value with data[164:173]
+2024-05-24 14:44:35,863 - DEBUG - Calling on_header_end with no data
+2024-05-24 14:44:35,863 - DEBUG - Calling on_headers_finished with no data
+2024-05-24 14:44:35,863 - DEBUG - Calling on_part_data with data[177:49152]
+2024-05-24 14:44:35,864 - DEBUG - Calling on_part_data with data[0:182983]
+2024-05-24 14:44:35,864 - DEBUG - Calling on_part_data with data[0:1]
+2024-05-24 14:44:35,866 - DEBUG - Calling on_part_data with data[182984:262144]
+2024-05-24 14:44:35,868 - DEBUG - Calling on_part_data with data[0:262144]
+2024-05-24 14:44:35,869 - DEBUG - Calling on_part_data with data[0:94383]
+2024-05-24 14:44:35,869 - DEBUG - Calling on_part_end with no data
+2024-05-24 14:44:35,869 - DEBUG - Calling on_end with no data
+2024-05-24 14:44:35,871 - INFO - File saved to: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,871 - INFO - File saved to: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,871 - INFO - File saved to: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,871 - INFO - File saved to: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,871 - INFO - Normalized file path: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,871 - INFO - Normalized file path: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,880 - INFO - Loading audio file: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,880 - INFO - Loading audio file: uploads\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav
+2024-05-24 14:44:35,899 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:35,899 - INFO - Segmented file saved: segment_0.wav
+2024-05-24 14:44:35,902 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:35,902 - INFO - Segmented file saved: segment_1.wav
+2024-05-24 14:44:35,904 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:35,904 - INFO - Segmented file saved: segment_2.wav
+2024-05-24 14:44:35,908 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:35,908 - INFO - Segmented file saved: segment_3.wav
+2024-05-24 14:44:35,910 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:35,910 - INFO - Segmented file saved: segment_4.wav
+2024-05-24 14:44:35,913 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:35,913 - INFO - Segmented file saved: segment_5.wav
+2024-05-24 14:44:35,915 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:35,915 - INFO - Segmented file saved: segment_6.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_7.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_7.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_8.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_8.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_9.wav
+2024-05-24 14:44:35,917 - INFO - Segmented file saved: segment_9.wav
+2024-05-24 14:44:35,917 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav']
+2024-05-24 14:44:35,917 - INFO - Created audio segments: ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav']
+2024-05-24 14:44:35,917 - INFO - Starting audio batch analysis
+2024-05-24 14:44:35,917 - INFO - Starting audio batch analysis
+2024-05-24 14:44:35,917 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:35,917 - INFO - Processing audio: segment_0.wav
+2024-05-24 14:44:35,932 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_1.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:35,932 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:35,932 - INFO - Extracting features from: segment_0.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_2.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_3.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_7.wav
+2024-05-24 14:44:35,932 - INFO - Extracting features from: segment_1.wav
+2024-05-24 14:44:35,932 - INFO - Processing audio: segment_4.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_8.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_5.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_2.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_6.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_6.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_7.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_7.wav
+2024-05-24 14:44:35,935 - INFO - Processing audio: segment_8.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_8.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_4.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_5.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_7.wav
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_8.wav
+2024-05-24 14:44:35,935 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,935 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,935 - INFO - Extracting features from: segment_3.wav
+2024-05-24 14:44:35,948 - INFO - Processing audio: segment_9.wav
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Processing audio: segment_9.wav
+2024-05-24 14:44:35,948 - INFO - Extracting features from: segment_9.wav
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,964 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting features from: segment_9.wav
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,964 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,948 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,979 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,964 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,964 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,979 - INFO - Extracting MFCCs
+2024-05-24 14:44:35,995 - DEBUG - 12 changes detected: {(<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\uploads\\recording_2024-05-24T09-44-35.857Z_hui5pu6r2bc.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_7.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_8.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_9.wav'), (<Change.added: 1>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav')}
+2024-05-24 14:44:36,074 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,074 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,074 - INFO - Computing LPCC
+2024-05-24 14:44:36,074 - INFO - Computing LPCC
+2024-05-24 14:44:36,090 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:36,090 - INFO - Estimating VOT for: segment_4.wav
+2024-05-24 14:44:36,090 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,090 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,090 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,105 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,090 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,105 - INFO - Computing LPCC
+2024-05-24 14:44:36,105 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,105 - INFO - Computing LPCC
+2024-05-24 14:44:36,121 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,121 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,121 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:36,121 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,121 - INFO - Computing LPCC
+2024-05-24 14:44:36,121 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,137 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,121 - INFO - Estimating VOT for: segment_1.wav
+2024-05-24 14:44:36,146 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,121 - INFO - Computing LPCC
+2024-05-24 14:44:36,137 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,153 - INFO - Computing LPCC
+2024-05-24 14:44:36,153 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,146 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,153 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,153 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,153 - INFO - Computing LPCC
+2024-05-24 14:44:36,153 - INFO - Estimating VOT for: segment_7.wav
+2024-05-24 14:44:36,153 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:36,153 - INFO - Estimating VOT for: segment_3.wav
+2024-05-24 14:44:36,169 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,153 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,169 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,153 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,169 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,169 - INFO - Computing LPCC
+2024-05-24 14:44:36,153 - INFO - Estimating VOT for: segment_7.wav
+2024-05-24 14:44:36,200 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,153 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,202 - INFO - Computing LPCC
+2024-05-24 14:44:36,169 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,202 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,169 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,208 - INFO - Computing LPCC
+2024-05-24 14:44:36,169 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,169 - INFO - Computing LPCC
+2024-05-24 14:44:36,210 - INFO - Estimating VOT for: segment_9.wav
+2024-05-24 14:44:36,200 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,210 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,210 - INFO - Computing LPCC
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,216 - INFO - Computing LPCC
+2024-05-24 14:44:36,202 - INFO - Computing LPCC
+2024-05-24 14:44:36,216 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:36,202 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,202 - INFO - Extracting LPCCs
+2024-05-24 14:44:36,218 - INFO - Computing LPCC
+2024-05-24 14:44:36,208 - INFO - Computing LPCC
+2024-05-24 14:44:36,222 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:36,210 - INFO - Estimating VOT for: segment_9.wav
+2024-05-24 14:44:36,222 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,226 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,210 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,230 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,210 - INFO - Computing LPCC
+2024-05-24 14:44:36,216 - INFO - Computing LPCC
+2024-05-24 14:44:36,230 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:36,216 - INFO - Estimating VOT for: segment_0.wav
+2024-05-24 14:44:36,236 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,236 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:36,218 - INFO - Computing LPCC
+2024-05-24 14:44:36,242 - INFO - Estimating VOT for: segment_8.wav
+2024-05-24 14:44:36,222 - INFO - Estimating VOT for: segment_6.wav
+2024-05-24 14:44:36,244 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,222 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,226 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,248 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,230 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,230 - INFO - Estimating VOT for: segment_2.wav
+2024-05-24 14:44:36,251 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,236 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,251 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,236 - INFO - Estimating VOT for: segment_5.wav
+2024-05-24 14:44:36,258 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,242 - INFO - Estimating VOT for: segment_8.wav
+2024-05-24 14:44:36,264 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,244 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,264 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,264 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,251 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,267 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,251 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,258 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,267 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,267 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,267 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,264 - INFO - Detecting burst and periodicity onset
+2024-05-24 14:44:36,271 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,271 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,267 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,267 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,267 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,271 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,267 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,248 - INFO - Computing energy and ZCR
+2024-05-24 14:44:36,271 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,278 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,278 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,278 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,278 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,285 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,285 - INFO - Finding burst and periodicity
+2024-05-24 14:44:36,291 - INFO - Total time taken: 0.37 seconds
+2024-05-24 14:44:36,291 - INFO - Total time taken: 0.37 seconds
+2024-05-24 14:44:36,292 - INFO - Predictions: [0 1 0 1 0 1 0 0 0 0]
+2024-05-24 14:44:36,292 - INFO - Predictions: [0 1 0 1 0 1 0 0 0 0]
+2024-05-24 14:44:36,292 - INFO - Probabilities: [[0.80919482 0.19080518]
+ [0.39190795 0.60809205]
+ [0.88112291 0.11887709]
+ [0.48609468 0.51390532]
+ [0.88932073 0.11067927]
+ [0.43384819 0.56615181]
+ [0.97576696 0.02423304]
+ [0.83521442 0.16478558]
+ [0.87599371 0.12400629]
+ [0.98391398 0.01608602]]
+2024-05-24 14:44:36,292 - INFO - Probabilities: [[0.80919482 0.19080518]
+ [0.39190795 0.60809205]
+ [0.88112291 0.11887709]
+ [0.48609468 0.51390532]
+ [0.88932073 0.11067927]
+ [0.43384819 0.56615181]
+ [0.97576696 0.02423304]
+ [0.83521442 0.16478558]
+ [0.87599371 0.12400629]
+ [0.98391398 0.01608602]]
+2024-05-24 14:44:36,292 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:36,292 - INFO - Printing predictions and probabilities
+2024-05-24 14:44:36,292 - INFO - None
+2024-05-24 14:44:36,292 - INFO - None
+2024-05-24 14:44:36,299 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:36,299 - INFO - Processing predictions and probabilities
+2024-05-24 14:44:36,300 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav']
+2024-05-24 14:44:36,300 - INFO - ['segment_0.wav', 'segment_1.wav', 'segment_2.wav', 'segment_3.wav', 'segment_4.wav', 'segment_5.wav', 'segment_6.wav', 'segment_7.wav', 'segment_8.wav', 'segment_9.wav']
+2024-05-24 14:44:36,301 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:36,301 - INFO - Deleted file: segment_0.wav
+2024-05-24 14:44:36,301 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:36,301 - INFO - Deleted file: segment_1.wav
+2024-05-24 14:44:36,304 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:36,304 - INFO - Deleted file: segment_2.wav
+2024-05-24 14:44:36,306 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:36,306 - INFO - Deleted file: segment_3.wav
+2024-05-24 14:44:36,306 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:36,306 - INFO - Deleted file: segment_4.wav
+2024-05-24 14:44:36,307 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:36,307 - INFO - Deleted file: segment_5.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_6.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_7.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_7.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_8.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_8.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_9.wav
+2024-05-24 14:44:36,309 - INFO - Deleted file: segment_9.wav
+2024-05-24 14:44:36,430 - DEBUG - 12 changes detected: {(<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_2.wav'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\file_metadata.json'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_6.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_3.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_4.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_0.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_8.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_9.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_5.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_1.wav'), (<Change.deleted: 3>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\segment_7.wav')}
+2024-05-24 14:44:36,800 - DEBUG - 2 changes detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\uploads'), (<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:37,243 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:37,617 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:38,021 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:38,409 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:38,850 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:39,266 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:39,654 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:40,085 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:40,443 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:40,874 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:41,246 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:41,695 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:42,108 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:42,538 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:42,978 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:43,431 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:43,792 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:44,238 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:44,614 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:45,052 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:45,485 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:45,870 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:46,248 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:46,617 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:47,131 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:47,515 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:47,944 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:48,319 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:48,821 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:49,217 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:49,598 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:49,969 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:50,484 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:50,921 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:51,302 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:51,692 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:52,136 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:52,524 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:52,903 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:53,417 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:53,797 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:54,175 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:54,618 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:55,121 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:55,625 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:56,007 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:56,453 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:56,831 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:57,287 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
+2024-05-24 14:44:57,681 - DEBUG - 1 change detected: {(<Change.modified: 2>, 'C:\\Users\\noorh\\OneDrive\\Desktop\\deppinspect-api\\main.log')}
